@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "wearbot",
+  "description": "Match your uploaded tops and bottoms with WEARBOT AI outfit recommendations and smart style matching.",
+  "version": "0.1.0",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
